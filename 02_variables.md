@@ -1,6 +1,6 @@
 # Variables
 
-## Example:
+## Examples:
 ```ruby
 welcome = 'Welcome to Ruby Programming'
 one = 1

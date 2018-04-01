@@ -3,6 +3,7 @@
 - Ruby is dynamic, elegant syntax, simple and productivity.
 - Creator is Yukihiro “Matz” Matsumoto.
 - Philosophy for the design of Ruby:
+
     > Ruby is designed to make programmers happy.
 
 ## Installation
