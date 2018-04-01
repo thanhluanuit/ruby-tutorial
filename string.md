@@ -66,44 +66,42 @@ string_ruby = "Welcome to String in Ruby"
 
 - Upcase a string
 
-```ruby
-irb:001> "hello world".upcase     
-=> "HELLO WORLD"
-```
+    ```ruby
+    irb:001> "hello world".upcase     
+    => "HELLO WORLD"
+    ```
 
 - Downcase a string
 
-```ruby
-irb:001> "HELLO WORLD".downcase   
-=> "hello world"
-```
+    ```ruby
+    irb:001> "HELLO WORLD".downcase   
+    => "hello world"
+    ```
 
 - Reverse characters in a string
 
-```ruby
-irb:001> "hello world".reverse    
-=> "dlrow olleh"
-```
+    ```ruby
+    irb:001> "hello world".reverse    
+    => "dlrow olleh"
+    ```
+
 - Capitalize first character in a string
 
-```ruby
-irb:001> "hello world".capitalize 
-=> "Hello world"
-```
-
+    ```ruby
+    irb:001> "hello world".capitalize 
+    => "Hello world"
+    ```
 
 - Get length of a string
  
-```ruby
-irb:001> "hello world".length     
-=> 11
-```
+    ```ruby
+    irb:001> "hello world".length     
+    => 11
+    ```
    
 - Replace a character in string by a new character
 
-```ruby
-irb:001> "hello world".gsub("l", "L") 
-=> "heLLo worLd"
-```
-
-
+    ```ruby
+    irb:001> "hello world".gsub("l", "L") 
+    => "heLLo worLd"
+    ```
