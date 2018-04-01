@@ -20,7 +20,7 @@ The name of variable in the left and value of this variable in the right.
 Now we can reference to variables like that:
 ```ruby
 irb:001 > welcome
-=> Welcome to Ruby Programming
+=> "Welcome to Ruby Programming"
 irb:002 > price
 => 10.25
 ```
