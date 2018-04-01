@@ -1,6 +1,6 @@
-# String
+# Strings
 
-## Example:
+## Examples:
 ```ruby
 'This is a string in single quote'
 "This is a string in double quote"
@@ -29,7 +29,7 @@ sum = 1 + 2
 "1 + 2 = {1 + 2}"    #=> "1 + 2 = 3"
 ```
 
-## Indexing in String
+## Indexing
 ```ruby
 string_ruby = "Welcome to String in Ruby"
 ```
