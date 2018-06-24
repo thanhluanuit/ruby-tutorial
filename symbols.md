@@ -9,6 +9,8 @@
 :age
 :"age"
 :name
+
+:name.class #=> Symbol
 ```
 
 ## Common Uses

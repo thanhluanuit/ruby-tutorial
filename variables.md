@@ -1,10 +1,15 @@
 # Variables
 
+## What is a variable?
+- A variable as a word used to store a value (information) in programs.
+- To assign a value to a variable, use '=' operator.
+The name of variable in the left and value of this variable in the right.
+
 ## Examples:
 ```ruby
 welcome = 'Welcome to Ruby Programming'
-one = 1
-price = 10.25
+one     = 1
+price   = 10.25
 ```
 
 In above examples, welcome, one and price are variables. In there:
@@ -12,16 +17,12 @@ In above examples, welcome, one and price are variables. In there:
 - one has value is 1 
 - price has value is 10.25
 
-## What is a Variable?
-- A variable as a word used to store a value(information) in programs.
-- To assign a value to a variable, use '=' operator.
-The name of variable in the left and value of this variable in the right.
 
 Now we can reference to variables like that:
 ```ruby
-irb:001 > welcome
+irb:001> welcome
 => "Welcome to Ruby Programming"
-irb:002 > price
+irb:002> price
 => 10.25
 ```
 

@@ -56,8 +56,6 @@ if expression_1
   code
 elsif expression_2
   code
-  .
-  .
 elsif expression_n
   code
 else
@@ -67,12 +65,14 @@ end
 
 Examples:
 ```ruby
-if month < 6
-  price *= 0.8  # sale of 20%
-elsif month == 6
-  price *= 0.7  # sale of 30%
-else # months in 7..12
-  price *= 0.9  # sale of 10%
+if level == :beginer
+ puts "Salary up to 1000 USD"
+elsif level == :midle
+ puts "Salary up to 1500 USD"
+elsif level == :senior
+ puts "Salary up to 2000 USD"
+else
+ puts "Salary up to 5000 USD"
 end
 ```
 
@@ -101,7 +101,7 @@ end
 ```
 
 
-## case
+## case statement
 *case* expression is an alternative to the if-elsif-else expression.
 
 Examples:

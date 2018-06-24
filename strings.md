@@ -1,13 +1,13 @@
 # Strings
 
+## What is a String in Ruby?
+String is a text with single-quote(' ') or double-quote(" ") . 
+
 ## Examples:
 ```ruby
 'This is a string in single quote'
 "This is a string in double quote"
 ```
-
-## What is a String in Ruby?
-String is a text with single-quote(' ') or double-quote(" ") . 
 
 ## Interpolation
 Interpolation allows a string includes Ruby expression
@@ -22,10 +22,6 @@ Examples:
 ```ruby
 ruby = "Ruby Programming"
 "Welcome to #{ruby}" #=> "Welcome to Ruby Programming"
-
-sum = 1 + 2
-"Sum = #{sum}"       #=> "Sum = 3"
-
 "1 + 2 = {1 + 2}"    #=> "1 + 2 = 3"
 ```
 
