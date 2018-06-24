@@ -1,11 +1,7 @@
 # Ruby Programming Tutorial 
-This tutorial help beginners easy to learn and approach Ruby step by step. Have solid basic to learn about Ruby on Rails.
 
-## What Will I Learn?
-
-- Features, data types of Ruby.
-- Object-Oriented Programming in Ruby.
-- You’ll be able to code by Ruby programming language.
+- This tutorial helps beginners easy to learn and approach Ruby step by step.
+- It is designed basically but still has enough important knowledge to learn about Ruby on Rails.
 
 
 ## Table of contents
@@ -75,10 +71,10 @@ This tutorial help beginners easy to learn and approach Ruby step by step. Have 
 - unless
 - case
     
-### [Blocks]
+### Blocks
 - What is a blocks in Ruby?
 - Examples
-    
+ 
 ### Methods
 - Defining a method
 - Default parameters in method
