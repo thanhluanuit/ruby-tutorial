@@ -1,75 +1,96 @@
 ## Ruby Programming Tutorial 
+This tutorial help beginners easy to learn and approach Ruby step by step. Have solid basic to learn about Ruby on Rails.
 
-### Getting Started
-- Introduction
-- Installation
-- Running Ruby
-- Official Documents
+### What Will I Learn?
 
-### Variables
-- What is a Variable?
-- Examples
+- Features, data types of Ruby.
+- Object-Oriented Programming in Ruby.
+- You’ll be able to code by Ruby programming language.
 
-### Strings
-- What is a String in Ruby?
-- Interpolation
-- Indexing
-- Common methods
 
-### Numbers
-- Integers
-- Floats
-- Operaters
-- Convert numbers
+### Table of contents
 
-### True, False and Nil
-- true and false are the two Boolean values, and they represent truth and falsehood, yes and no, on and off.
-- nil is a special value to indicate the absence of value.
+- [Getting Started](/getting_started.md)
+    - Introduction
+    - Installation
+    - Running Ruby
+    - Official Documents
 
-### Symbols
-- What is a String in Ruby?
-- When we use Symbols in Ruby?
-- Common methods
+- [Variables](/variables.md)
+    - What is a variable?
+    - Examples
+    
+- [Constants]()
+    - What is a constant?
+    - Example
+    - Best Pratise
+    
+- [Comments]()
+    - What is a comment?
+    - Single line comments
+    - Multiline comments
 
-### Arrays
-- What is Array in Ruby?
-- Create an Array
-- Index
-- Common methods
- 
-### Hashes
-- What is Hash in Ruby
-- Examples
-- Retrieves
-- Common Uses
+- [Strings](/strings.md)
+    - What is a String in Ruby?
+    - Interpolation
+    - Indexing
+    - Common methods
 
-### Conditionals
-- if
-- else
-- elsif
-- unless
-- case
+- [Numbers](/numbers.md)
+    - Integers
+    - Floats
+    - Operaters
+    - Convert numbers
+    
+- [True, False and Nil](/true_false_nil.md)
+    - true and false are the two Boolean values, and they represent truth and falsehood, yes and no, on and off.
+    - nil is a special value to indicate the absence of value.
+    
+- [Symbols](/symbols.md)
+    - What is a symbol in Ruby?
+    - Examples
+    - Common methods
 
-### Iteration
-- each
-- each_with_index
-- map
 
-### Blocks
-- What is a Blocks in Ruby?
-- Examples
+- [Date & Time]()
 
-### Methods
-- Defining a method
-- Default parameters
+- [Arrays](/arrays.md)
+    - Create an Array
+    - Indexing
+    - Accessing elements
+    - Iteration 
+    - Common methods
 
-### Classes
-- Defining a Class
-- Constructor
-- Accessing methods levels
-- Accessing instance variables
+- [Range]()
 
-### Modules
-- Mixin
-- Module as Namespace
-- Modules and Class Composition
+- [Hashes](/hashes.md)
+    - Create a Hash
+    - Accessing value by key
+    - Iteration
+    - Common Uses
+
+- [Control Flow](/conditional.md)
+    - if
+    - else
+    - elsif
+    - unless
+    - case
+    
+- [Blocks]()
+    - What is a blocks in Ruby?
+    - Examples
+    
+- [Methods]()
+    - Defining a method
+    - Default parameters in method
+    
+- [Classes]()
+    - Defining a Class
+    - Constructor
+    - Accessing methods levels
+    - Accessing instance variables
+    
+- [Module]()
+    - Mixin
+    - Module as Namespace
+    - Modules and Class Composition
