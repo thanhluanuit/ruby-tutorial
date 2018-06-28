@@ -1,10 +1,7 @@
-# Ruby Programming Tutorial 
+# Summary
 
-- This tutorial helps beginners easy to learn and approach Ruby step by step.
-- It is designed basically but still has enough important knowledge to learn about Ruby on Rails.
+* [Introduction](README.md)
 
-
-## Table of contents
 
 * [Getting Started](/getting_started.md)
     - Introduction
@@ -70,6 +67,7 @@
     - Iteration
     - Common Uses
 
+
 * [Date & Time](/date_time.md)
 
 
@@ -102,3 +100,4 @@
     - Mixin
     - Module as Namespace
     - Modules and Class Composition
+

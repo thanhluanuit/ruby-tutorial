@@ -55,12 +55,14 @@ profile = {:user_name => "Tony", :language => "English", :age => 25}
 ```
 
 - Get list keys
+
 ```ruby
 profile.keys 
 => [:user_name, :language, :age]
 ```
 
 - Get list values
+
 ```ruby
 profile.values
 => ["Tony", "English", 25]
@@ -96,6 +98,7 @@ Index 2: key is z and value is 5
 
 ## Filtering with *select*, *reject*
 - *select* 
+
 ```ruby
 hash = {:a => 1, :b => 2, :c => 3}
 hash.select{|key, value| value.even?}   
@@ -103,6 +106,7 @@ hash.select{|key, value| value.even?}
 ```
 
 - *reject*
+
 ```ruby
 hash = {:a => 1, :b => 2, :c => 3}
 hash.reject{|key, value| value.even?}   

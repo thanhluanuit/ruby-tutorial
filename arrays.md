@@ -35,6 +35,7 @@ array[-1] # => 9
 ## Accessing elements
 
 - Get first element in array
+
 ```ruby
 array = [5, 2, 4, 7, 9]
 array[0]     # => 5
@@ -42,27 +43,30 @@ array.first  # => 5
 ```
 
 - Get last element in array
+
 ```ruby
 array = [5, 2, 4, 7, 9]
 array.last  # => 9
 array[4]    # => 9
 array[-1]   # => 9
-
 ```
 
 - Get second of last element in array
+
 ```ruby
 array = [5, 2, 4, 7, 9]
 array[-2]  # => 7
 ```
 
 - Get first n elements in array
+
 ```ruby
 array = [5, 2, 4, 7, 9]
 array.first(3)  # => [5, 2, 4]
 ```
 
 - Get last n elements in array
+
 ```ruby
 array = [5, 2, 4, 7, 9]
 array.last(2)  # => [7, 9]
@@ -72,6 +76,7 @@ array.last(2)  # => [7, 9]
 ### each
 
 You can iterate elements in array:
+
 ```ruby
 [3, 4, 5].each{ |i| puts "element: #{i}" }
 # Output:
@@ -82,6 +87,7 @@ element: 5
 ```
 
 You can iterate over nested arrays:
+
 ```ruby
 [[1, 2], [3, 4], [7, 8]].each do |a, b| 
   puts "a: #{a}, b: #{b}" 
@@ -109,12 +115,14 @@ Index 2: element is 5
 ## Filtering with *select*, *reject*
 
 - *select*: will returen elements match to the condition
+
 ```ruby
 array = [5, 2, 4, 7, 9]
 array.select{|item| item > 5} # => [7, 9]
 ```
 
 - *reject*: will returen elements do not match to the condition
+
 ```ruby
 array = [5, 2, 4, 7, 9]
 array.reject{|item| item > 5} # => [5, 2, 4]
