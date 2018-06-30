@@ -49,6 +49,12 @@
     - Examples
     - Common methods
 
+ 
+* [Blocks](/blocks.md)
+    - What is a block in Ruby?
+    - Examples
+    - Variables for block
+
 
 * [Arrays](/arrays.md)
     - Create an Array
@@ -80,11 +86,6 @@
     - elsif
     - unless
     - case
-
- 
-* [Blocks]()
-    - What is a blocks in Ruby?
-    - Examples
 
 
 * [Methods]()
