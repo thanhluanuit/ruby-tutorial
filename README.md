@@ -61,7 +61,10 @@
     - Common methods
 
 
-* Range
+* [Range](/range.md)
+    - Create a Range
+    - Iteration
+    - Common methods
 
 
 * [Hashes](/hashes.md)
