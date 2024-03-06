@@ -114,7 +114,7 @@ Index 2: element is 5
 
 ## Filtering with *select*, *reject*
 
-- *select*: will returen elements match to the condition
+- *select*: will return elements match to the condition
 
 ```ruby
 array = [5, 2, 4, 7, 9]
